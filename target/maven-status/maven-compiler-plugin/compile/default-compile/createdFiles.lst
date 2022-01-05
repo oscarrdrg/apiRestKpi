@@ -1,0 +1,7 @@
+aar\Kpi.class
+aar\DatabaseService.class
+aar\User.class
+aar\UserService.class
+aar\UserDao.class
+aar\Intercambio.class
+aar\EntityManagerListener.class
